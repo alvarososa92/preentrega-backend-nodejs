@@ -1,0 +1,14 @@
+{
+  "name": "anteproyecto",
+  "version": "1.0.0",
+  "description": "CLI para gestionar productos de FakeStore API desde la terminal",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "mock": "node mock-server.js"
+  },
+  "keywords": ["node", "cli", "fakestore"],
+  "author": "",
+  "license": "ISC"
+}

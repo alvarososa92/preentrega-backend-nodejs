@@ -1,0 +1,17 @@
+[
+  { "id": 1, "title": "Funda MagSafe iPhone 11", "price": 28000, "category": "fundas" },
+  { "id": 2, "title": "Funda MagSafe iPhone 12", "price": 30800, "category": "fundas" },
+  { "id": 3, "title": "Funda MagSafe iPhone 14", "price": 35000, "category": "fundas" },
+  { "id": 4, "title": "Funda MagSafe iPhone 14 Pro", "price": 35000, "category": "fundas" },
+  { "id": 5, "title": "Funda AirPods 2da Gen", "price": 15400, "category": "fundas" },
+  { "id": 6, "title": "Cargador Taco 20W", "price": 35000, "category": "cargadores" },
+  { "id": 7, "title": "Cargador Taco 35W", "price": 56000, "category": "cargadores" },
+  { "id": 8, "title": "Cargador Auto USB-C", "price": 21000, "category": "cargadores" },
+  { "id": 9, "title": "Cargador Auto Doble", "price": 12600, "category": "cargadores" },
+  { "id": 10, "title": "Cargador Carga Rapida", "price": 21000, "category": "cargadores" },
+  { "id": 11, "title": "Cable USB-C a Lightning", "price": 23800, "category": "cables" },
+  { "id": 12, "title": "Cable USB-C a Lightning 2m", "price": 30800, "category": "cables" },
+  { "id": 13, "title": "Cable USB-C a USB-C", "price": 28000, "category": "cables" },
+  { "id": 14, "title": "Cable USB a Lightning", "price": 23800, "category": "cables" },
+  { "id": 15, "title": "Cable USB a Tipo C", "price": 14000, "category": "cables" }
+]
