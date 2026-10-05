@@ -9,6 +9,6 @@
     "mock": "node mock-server.js"
   },
   "keywords": ["node", "cli", "fakestore"],
-  "author": "",
+  "author": "Álvaro Sosa",
   "license": "ISC"
 }
